@@ -1,3 +1,15 @@
+<h1>Cryptocurrency Finance Price Tracker (Beginner Level)</h1>
+
+<h2>A cryptocurrency frontend page built using React.</h2>
+
+<p>This webpage was created using React while using axios to fetch the api. I created this following the tutorial of PedroTech.</p>
+
+### Screenshot
+
+<img src="./screenshot.png" width="400">
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
